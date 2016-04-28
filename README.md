@@ -9,3 +9,7 @@ This firmware is compatible with [FlyingLemon LemonCore PRO](https://flyinglemon
 * RSSI reading directly from PDB
 * fly timer
 
+###[DOWLOAD](https://github.com/flyinglemonfpv/FLOSD_CF/releases)
+
+
+
